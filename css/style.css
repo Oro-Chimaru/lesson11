@@ -1,0 +1,234 @@
+.head-div {
+    max-width: 1184px;
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    column-gap: 197px;
+    padding-top: 36.5px;
+    padding-bottom: 36.5px;
+}
+.ul-li {
+    display: flex;
+    column-gap: 64px;
+}
+.buttomdiv {
+    display: flex;
+}
+.buttom2 {
+    width: 115px;
+    height: 49px;
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.buttom1 {
+    width: 105px;
+    height: 49px;
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sec1box {
+    max-width: 1184px;
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
+.leftbox {
+    padding-top: 64px;
+    padding-bottom: 64px;
+}
+.div1 {
+    width: 412px;
+    height: 249px;
+}
+.div2 {
+    width: 412px;
+    height: 87px;
+    margin-top: 43px;
+    margin-bottom: 43px;
+}
+.div3 {
+    width: 338px;
+    height: 56px;
+    display: flex;
+    column-gap: 16px;
+}
+.div1h2 {
+    font-size: 69px;
+    line-height: 82.8px;
+}
+.div2p {
+    font-size: 18px;
+    line-height: 28.8px;
+}
+.buttomdiv1 {
+    width: 141px;
+    height: 49px;
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: purple;
+}
+.buttomdiv2 {
+    width: 181px;
+    height: 56px;
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid;
+}
+.rigthbox {
+    width: 772px;
+}
+.rightimg {
+    width: 100%;
+}
+.logodiv {
+    max-width: 1185px;
+    width: 90%;
+    margin: 0 auto 37px;
+    display: flex;
+    column-gap: 98.6px;
+}
+.logobox1 {
+    display: flex;
+    column-gap: 98.6px;
+    margin-top: 64px;
+    margin-bottom: 64px;
+}
+.logobox2 {
+    display: flex;
+    column-gap: 98.6px;
+    margin-top: 64px;
+    margin-bottom: 64px;
+}
+.sec3box {
+    max-width: 1184px;
+    width: 90%;
+    margin: 0 auto;
+}
+.sec3div {
+    width: 100%;
+    display: flex;
+}
+.sec3div1 {
+    width: 952px;
+}
+.arrowdiv {
+    width: 232px;
+    column-gap: 32px;
+    display: flex;
+}
+.leftarrow {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    border: 1px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rightarrow {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    border: 1px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: purple;
+}
+.sec3div1h3 {
+    font-size: 23px;
+    line-height: 27.6px;
+    letter-spacing: 20%;
+    margin-bottom: 16px;
+    color: #F85E9F;
+}
+.sec3div1h4 {
+    font-size: 44px;
+    line-height: 52.8px;
+}
+.imagediv {
+    width: 373.33px;
+    height: 575px;
+    margin-top: 64px;
+    display: flex;
+    column-gap: 32px;
+    background-color: white;
+}
+.description {
+    max-width: 309.33px;
+    width: 100%;
+    margin: 0 auto;  
+}
+.box1 {
+    width: 309.33px;
+    height: 56px;
+    display: flex;
+    margin-top: 32px;
+}
+.desc-name {
+    width: 228.33px;
+    height: 56px;
+}
+.price {
+    width: 81px;
+    height: 28px;
+}
+.pricep {
+    font-size: 23px;
+    line-height: 27.6px;
+}
+.desch4 {
+    font-size: 23px;
+    line-height: 27.6px;
+}
+.country {
+    margin-top: 16px;
+    width: 309.33px;
+    height: 29px;
+}
+.countryh6 {
+    font-size: 18px;
+    line-height: 28.8px;
+}
+.rating {
+    width: 66px;
+    margin-top: 32px;
+    display: flex;
+    align-items: center;
+}
+.ratingp {
+    font-size: 23px;
+    line-height: 27.6px;
+    color: #FF5722;
+}
+.star {
+    margin-left: 8px;
+    color: #FF5722;
+}
+.desc-name2 {
+    width: 235.33px;
+    height: 56px;
+    background-color: red;
+}
+.price2 {
+    width: 74px;
+    height: 28px;
+}
+.desc-name3 {
+    width: 226.33px;
+    height: 56px;
+}
+.price3 {
+    width: 83px;
+    height: 28px;
+}
