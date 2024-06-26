@@ -667,9 +667,7 @@
     }
     .burgerbar {
         display: block;
-        
         border-radius: 14px;
-        align-items: ;
     }
     .fa-bars {
         display: flex;
@@ -719,7 +717,6 @@
     .sec3div1h4 {
         margin: 0 auto;
         text-align: center;
-        background-color: red;
     }
     .arrowdiv {
         margin: 64px auto 0;
@@ -740,7 +737,6 @@
         margin-right: 90px;
     }
     .travelbox {
-        text-align: ;
         width: 100%;
     }
     .traveldiv {
@@ -816,5 +812,125 @@
         width: 100%;
         justify-content: space-between;
         margin-top: 64px;
+    }
+}
+@media (max-width: 430px) {
+    .burgerbar {
+        order: 2;
+    }
+    .buttomdiv {
+        display: none;
+    }
+    .sec1box {
+        max-width: 398px;
+        width: 100%;
+        flex-direction: column-reverse;
+    }
+    .div1 {
+        max-width: 398px;
+        width: 100%;
+    }
+    .div2 {
+        max-width: 398px;
+        width: 100%;
+        margin-top: 24px;
+        margin-bottom: 32px;
+    }
+    .div2p {
+        font-size: 16px;
+        line-height: 25.6px;
+    }
+    .div3 {
+        flex-direction: column;
+        height: 100%;
+    }
+    .buttomdiv1 {
+        max-width: 398px;
+        width: 100%;
+        margin-bottom: 24px;
+    }
+    .buttomdiv2 {
+        max-width: 398px;
+        width: 100%;
+    }
+    .logodiv {
+        max-width: 398px;
+        width: 100%;
+    }
+    .logobox1 {
+        width: 100%;
+    }
+    .logodiv1 {
+        max-width: 132.39px;
+        width: 100%;
+    }
+    .sec3box {
+        max-width: 398px;
+        width: 100%;
+    }
+    .sec3div {
+        width: 100%;
+    }
+    .sec3div1 {
+        width: 100%;
+    }
+    .sec3div1h3 {
+        font-size: 16px;
+        line-height: 19.2px;
+    }
+    .sec3div1h4 {
+        font-size: 32px;
+        line-height: 38.4px;
+    }
+    .arrowdiv {
+        justify-content: space-between;
+        width: 100%;
+    }
+    .imagediv {
+        max-width: 398px;
+        width: 100%;
+        flex-direction: column;
+    }
+    .image2 {
+        margin-top: 32px;
+        margin-bottom: 32px;
+    }
+    .sec4 {
+        max-width: 398px;
+        width: 100%;
+    }
+    .picture-box {
+        background-color: #FF5722;
+        width: 100%;
+    }
+    .rightdiv {
+        max-width: 398px;
+        width: 100%;
+    }
+    .travelbox {
+        width: 100%;
+    }
+    .traveldiv {
+        margin: 0 auto;
+        width: 100%;
+        background-color: #5D50C6;
+    }
+    .box3 {
+        flex-direction: column;
+    }
+    .box-1 {
+        flex-direction: column;
+    }
+    .minibox1 {
+        margin-bottom: 16px;
+    }
+    .ul-li2 {
+        display: none;
+    }
+    .footbox2 {
+        flex-direction: column;
+    }
+    .service1 {
+        flex-direction: column;
     }
 }
